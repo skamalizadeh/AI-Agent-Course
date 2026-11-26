@@ -1,0 +1,12 @@
+# کلیدها و تنظیمات شخصی
+.env
+
+# محیط مجازی و فایل‌های موقت
+.venv/
+__pycache__/
+*.pyc
+
+# خروجی‌های تولیدشده
+output/
+project2_support/state/
+project2_support/logs/

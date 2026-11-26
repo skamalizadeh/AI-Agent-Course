@@ -1,0 +1,5 @@
+{
+  "INV-77": {"order_id": "1042", "amount": 2450000, "currency": "IRR", "status": "paid", "payments": [{"date": "2026-11-21", "amount": 2450000}, {"date": "2026-11-21", "amount": 2450000}], "note": "Two identical payments recorded"},
+  "INV-78": {"order_id": "1043", "amount": 1800000, "currency": "IRR", "status": "pending", "payments": [], "note": ""},
+  "INV-79": {"order_id": "1044", "amount": 3900000, "currency": "IRR", "status": "paid", "payments": [{"date": "2026-11-15", "amount": 3900000}], "note": ""}
+}

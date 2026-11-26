@@ -1,0 +1,6 @@
+{
+  "1042": {"customer": "Sara Rezaei", "status": "shipped", "carrier": "Post", "tracking": "IR-889201", "eta": "2026-11-28", "items": ["Wireless mouse", "USB-C cable"]},
+  "1043": {"customer": "Ali Mohammadi", "status": "processing", "carrier": null, "tracking": null, "eta": null, "items": ["Laptop stand"]},
+  "1044": {"customer": "Maryam Ahmadi", "status": "delivered", "carrier": "Tipax", "tracking": "TPX-55120", "eta": "2026-11-20", "items": ["Mechanical keyboard"]},
+  "1045": {"customer": "Reza Karimi", "status": "cancelled", "carrier": null, "tracking": null, "eta": null, "items": ["Webcam"]}
+}
